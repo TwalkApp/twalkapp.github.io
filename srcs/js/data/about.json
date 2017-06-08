@@ -1,0 +1,12 @@
+{
+	"about": {
+		"informations": {
+			"title": "Keep in touch",
+			"text": "You can follow me on Soundcloud, I made 'Devcasts'\n( Podcast about developement of this project ).\nit's in French only, sorry for non-francophones"
+		},
+		"me": {
+			"title": "About me",
+			"text": "I'm Hugo SCHOCH, I love to write code. That's a good bio, I think :)\n( Website available at bottom of this page )"
+		}
+	}
+}

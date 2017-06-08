@@ -1,0 +1,12 @@
+{
+	"presentation": {
+		"description": {
+			"title": "What is Twalk ?",
+			"text": "Twalk is a dedicated app for small podcasts (Sometimes called 'streecast' or else)"
+		},
+		"why": {
+			"title": "Why Twalk ?",
+			"text": "I listen to a lot of podcasts and many of them are 'streetcasts'.\nSo many times I wanted to discuss with the host or other listeners on topics about these podcasts but I didn't found a good wayto talk with them.\nSo I dediced to try to develop Twalk."
+		}
+	}
+}
